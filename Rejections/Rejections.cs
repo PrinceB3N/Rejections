@@ -1,13 +1,13 @@
 ﻿using System;
 using System.Collections.Generic;
-public interface Rejectionss
+public interface Rejections
 {
     List<string> IgnoreList { get; set; }
     void Record(string symbol, DateTime now);
     bool isPermitted(string symbol, DateTime now);
 
 }
-public class Rejects : Rejectionss
+public class Rejects : Rejections
 {
     int max_rejections;
     double wait_time;
