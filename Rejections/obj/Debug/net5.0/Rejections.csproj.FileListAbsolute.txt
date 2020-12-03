@@ -1,0 +1,12 @@
+C:\Users\benja\Desktop\program\Rejections\bin\Debug\net5.0\Rejections.deps.json
+C:\Users\benja\Desktop\program\Rejections\bin\Debug\net5.0\Rejections.dll
+C:\Users\benja\Desktop\program\Rejections\bin\Debug\net5.0\ref\Rejections.dll
+C:\Users\benja\Desktop\program\Rejections\bin\Debug\net5.0\Rejections.pdb
+C:\Users\benja\Desktop\program\Rejections\obj\Debug\net5.0\Rejections.csprojAssemblyReference.cache
+C:\Users\benja\Desktop\program\Rejections\obj\Debug\net5.0\Rejections.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\benja\Desktop\program\Rejections\obj\Debug\net5.0\Rejections.AssemblyInfoInputs.cache
+C:\Users\benja\Desktop\program\Rejections\obj\Debug\net5.0\Rejections.AssemblyInfo.cs
+C:\Users\benja\Desktop\program\Rejections\obj\Debug\net5.0\Rejections.csproj.CoreCompileInputs.cache
+C:\Users\benja\Desktop\program\Rejections\obj\Debug\net5.0\Rejections.dll
+C:\Users\benja\Desktop\program\Rejections\obj\Debug\net5.0\ref\Rejections.dll
+C:\Users\benja\Desktop\program\Rejections\obj\Debug\net5.0\Rejections.pdb
